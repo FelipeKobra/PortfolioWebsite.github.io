@@ -1,0 +1,41 @@
+.title{
+    font-size: 4.5rem;
+    font-weight: bolder;
+}
+
+.subtitle{
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+.primeira{
+    color: #3500D3;
+}
+
+.segunda{
+    color: #282828;
+}
+
+.terceira{
+    color: #240090;
+}
+
+.quarta{
+    color: #190061;
+}
+
+.quinta{
+    color: #0C0032;
+}
+
+.filtro-primeira{
+    filter: invert(15%) sepia(92%) saturate(5959%) hue-rotate(259deg) brightness(73%) contrast(140%);
+}
+
+.filtro-branco{
+    filter: invert(100%) sepia(0%) saturate(7491%) hue-rotate(133deg) brightness(105%) contrast(101%);
+}
+
+.filtro-quinta{
+    filter: invert(8%) sepia(28%) saturate(4441%) hue-rotate(241deg) brightness(94%) contrast(120%);
+}
